@@ -16,5 +16,5 @@ This project implements a simple stopwatch using HTML, CSS, and JavaScript. The 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/stopwatch-project.git
+   git clone https://github.com/SanjayGitHub00/stopwatch.git
    ```
